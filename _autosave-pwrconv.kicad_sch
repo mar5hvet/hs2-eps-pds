@@ -5424,7 +5424,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C167223"
+		(property "LCSC" "C40000"
 			(at 111.76 120.65 90)
 			(effects
 				(font
@@ -5863,7 +5863,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C4410"
+		(property "LCSC" "C488883"
 			(at 147.32 137.16 0)
 			(effects
 				(font
@@ -6272,7 +6272,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "220u"
 			(at 139.7 140.97 0)
 			(effects
 				(font
@@ -6308,7 +6308,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C45783"
+		(property "LCSC" "C125977"
 			(at 135.89 139.7 0)
 			(effects
 				(font
