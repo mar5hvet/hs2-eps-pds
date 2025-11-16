@@ -1234,7 +1234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1053887c-bd2d-418c-b881-5fccf2ab9885")
-		(property "Reference" "C1"
+		(property "Reference" "C10"
 			(at 97.79 109.2199 0)
 			(effects
 				(font
@@ -1252,7 +1252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 94.9452 114.3 0)
 			(effects
 				(font
@@ -1288,7 +1288,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "C1")
+					(reference "C?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1304,7 +1310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1573d2dc-c3f9-4a3e-a01a-28e38178e65b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR026"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -1354,7 +1360,13 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR02")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -1370,7 +1382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a33940f-7ec9-4e61-9bde-103e250f7b49")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR029"
 			(at 168.91 76.2 0)
 			(effects
 				(font
@@ -1420,7 +1432,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR08")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -1436,7 +1454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4581f769-7bd3-4ace-b5af-fda7f8060a30")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR024"
 			(at 106.68 123.19 0)
 			(effects
 				(font
@@ -1486,7 +1504,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR06")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -1502,7 +1526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b1f14e6-7dc2-4171-bd43-b7dc8f0ac96c")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR028"
 			(at 147.32 120.65 0)
 			(effects
 				(font
@@ -1552,7 +1576,13 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR05")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -1618,6 +1648,12 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
+					(reference "#FLG?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
 					(reference "#FLG02")
 					(unit 1)
 				)
@@ -1634,7 +1670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d43aeac-f95a-44d1-af6c-e351dbf22223")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR022"
 			(at 93.98 123.19 0)
 			(effects
 				(font
@@ -1684,7 +1720,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR07")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -1700,7 +1742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "778e6550-d717-4e3a-965e-7a592062e0a5")
-		(property "Reference" "R1"
+		(property "Reference" "R7"
 			(at 171.45 77.4699 0)
 			(effects
 				(font
@@ -1718,7 +1760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 167.132 78.74 90)
 			(effects
 				(font
@@ -1754,7 +1796,13 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "R1")
+					(reference "R?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -1820,6 +1868,12 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
+					(reference "#FLG?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
 					(reference "#FLG01")
 					(unit 1)
 				)
@@ -1836,7 +1890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d161eaa-83bf-42a5-a2bf-f10c367d9950")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR025"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -1886,7 +1940,13 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR01")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -1902,7 +1962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94e757aa-91cf-4f7f-bd55-6b0a35df7a08")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR023"
 			(at 100.33 77.47 0)
 			(effects
 				(font
@@ -1952,7 +2012,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR03")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -1968,7 +2034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b08cb104-b8a8-46f8-b232-297b1c5a0949")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 127 77.47 0)
 			(effects
 				(font
@@ -1984,7 +2050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS3431SDRBR:IC_TPS3431SDRBR"
+		(property "Footprint" "Footprints:IC_TPS3431SDRBR"
 			(at 127 95.25 0)
 			(effects
 				(font
@@ -2082,7 +2148,13 @@
 		(instances
 			(project ""
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "U1")
+					(reference "U?")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -2098,7 +2170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2dc96af-8222-4515-b5f4-917be0e913ff")
-		(property "Reference" "C3"
+		(property "Reference" "C12"
 			(at 151.13 77.4699 0)
 			(effects
 				(font
@@ -2116,7 +2188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 148.2852 82.55 0)
 			(effects
 				(font
@@ -2152,7 +2224,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "C3")
+					(reference "C?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -2168,7 +2246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5cb4f87-379b-4a2a-ba0d-1ab4e3e94975")
-		(property "Reference" "C2"
+		(property "Reference" "C11"
 			(at 110.49 109.2199 0)
 			(effects
 				(font
@@ -2186,7 +2264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 107.6452 114.3 0)
 			(effects
 				(font
@@ -2222,7 +2300,13 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "C2")
+					(reference "C?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -2238,7 +2322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2d1b242-5422-4dc9-a70b-82133fb0272e")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR027"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -2288,16 +2372,16 @@
 		(instances
 			(project "watchdog_timer"
 				(path "/a05b9ef3-1091-478d-abef-7fec7cd0c8a8"
-					(reference "#PWR04")
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+			(project "watchdog_timer"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb/053a39ba-618d-4bb1-abd6-23425a83bd33"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

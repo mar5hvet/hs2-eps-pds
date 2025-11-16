@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=EPS_PCB.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=EPS_PCB.SchDoc|Designator=PCI-104|SchDesignator=PCI-104|FileName=PCI-104.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=PCI-104.SchDoc|DesignItemId= |SourceLibraryName=PCI-104.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EPS_PCB.SchDoc|Designator=power_conv|SchDesignator=power_conv|FileName=pwrconv.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=pwrconv.SchDoc|DesignItemId= |SourceLibraryName=pwrconv.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=EPS_PCB.SchDoc|Designator=watchdog_timer|SchDesignator=watchdog_timer|FileName=watchdog_timer.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=watchdog_timer.SchDoc|DesignItemId= |SourceLibraryName=watchdog_timer.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

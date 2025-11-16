@@ -53,13 +53,12 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "pwrconv.kicad_prl",
+    "filename": "PCI-104-Temp.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,16 +87,16 @@
       9
     ],
     "col_widths": [
-      243,
-      221,
-      137,
-      101,
-      137,
-      137,
-      137,
-      107,
-      137,
-      137
+      162,
+      147,
+      91,
+      67,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
