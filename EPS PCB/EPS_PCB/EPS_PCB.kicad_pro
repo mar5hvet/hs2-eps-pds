@@ -624,6 +624,14 @@
     [
       "053a39ba-618d-4bb1-abd6-23425a83bd33",
       "watchdog_timer"
+    ],
+    [
+      "314f54f4-77ba-47c2-b7f9-92b5f1476166",
+      "Curr_meas"
+    ],
+    [
+      "e698cac6-ff82-474d-84be-33e482c0cae8",
+      "Hysteresis_circ"
     ]
   ],
   "text_variables": {}

@@ -5,7 +5,11 @@
 	(uuid "e5aefcdf-1552-4881-b70a-fd78aade4bcb")
 	(paper "A4")
 	(title_block
-		(date "2025-11-13")
+		(title "EPS_PDS_Circuit")
+		(date "2025-11-20")
+		(rev "1.0")
+		(company "UW Huskysat")
+		(comment 1 "Tracy, Maria, Phina, David, Chase")
 	)
 	(lib_symbols)
 	(sheet
@@ -46,6 +50,48 @@
 			(project "EPS_PCB"
 				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.805 27.305)
+		(size 92.71 51.435)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "314f54f4-77ba-47c2-b7f9-92b5f1476166")
+		(property "Sheetname" "Curr_meas"
+			(at 90.805 26.5934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "curr_meas.kicad_sch"
+			(at 90.805 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EPS_PCB"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb"
+					(page "5")
 				)
 			)
 		)
@@ -130,6 +176,48 @@
 			(project "EPS_PCB"
 				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.805 84.455)
+		(size 101.6 43.815)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e698cac6-ff82-474d-84be-33e482c0cae8")
+		(property "Sheetname" "Hysteresis_circ"
+			(at 90.805 83.7434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Hysteresis_circ.kicad_sch"
+			(at 90.805 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EPS_PCB"
+				(path "/e5aefcdf-1552-4881-b70a-fd78aade4bcb"
+					(page "6")
 				)
 			)
 		)

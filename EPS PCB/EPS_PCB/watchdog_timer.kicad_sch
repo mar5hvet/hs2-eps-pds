@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "a05b9ef3-1091-478d-abef-7fec7cd0c8a8")
 	(paper "A4")
+	(title_block
+		(title "Watchdog Timeer Circuit")
+		(date "2025-11-20")
+		(rev "1.0")
+		(company "UW Huskysat")
+		(comment 1 "Chase")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
