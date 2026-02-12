@@ -3714,7 +3714,7 @@
 		)
 		(uuid "4c7d0cdb-2bf2-4e7b-9aff-2a27bcb643fb")
 	)
-	(label "IN+4"
+	(label "IN-3"
 		(at 109.22 59.69 0)
 		(effects
 			(font
@@ -3948,7 +3948,7 @@
 			)
 		)
 	)
-	(global_label "3V3_out"
+	(global_label "3V3_conv_out"
 		(shape input)
 		(at 201.93 36.83 90)
 		(fields_autoplaced yes)
@@ -3960,7 +3960,7 @@
 		)
 		(uuid "34158981-a6ae-4393-bd9d-4ee766256bc1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 26.3459 90)
+			(at 201.93 21.0241 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,7 +4036,7 @@
 			)
 		)
 	)
-	(global_label "3V3_out"
+	(global_label "3V3_conv_out"
 		(shape input)
 		(at 129.54 22.86 90)
 		(fields_autoplaced yes)
@@ -4048,7 +4048,7 @@
 		)
 		(uuid "55e03e91-7d1f-41dc-b298-8cdafb68635c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.54 12.3759 90)
+			(at 129.54 7.0541 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +4212,7 @@
 			)
 		)
 	)
-	(global_label "3V3_out"
+	(global_label "3V3_conv_out"
 		(shape input)
 		(at 124.46 22.86 90)
 		(fields_autoplaced yes)
@@ -4224,7 +4224,7 @@
 		)
 		(uuid "b43a6066-aceb-4277-a357-d4bd40e792c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.46 12.3759 90)
+			(at 124.46 7.0541 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4300,7 +4300,7 @@
 			)
 		)
 	)
-	(global_label "3V3_out"
+	(global_label "3V3_conv_out"
 		(shape input)
 		(at 109.8299 25.2831 90)
 		(fields_autoplaced yes)
@@ -4312,7 +4312,7 @@
 		)
 		(uuid "e6cc501b-889e-4d2d-8f56-824e54dd98b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.8299 14.799 90)
+			(at 109.8299 9.4772 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6327,6 +6327,7 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 100.33 86.36 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6334,7 +6335,7 @@
 		(dnp no)
 		(uuid "c5bbf575-5584-4fc6-a7da-bd1b9b78661f")
 		(property "Reference" "C14"
-			(at 104.14 85.0899 0)
+			(at 96.52 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6343,7 +6344,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 104.14 87.6299 0)
+			(at 96.52 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6352,7 +6353,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 101.2952 90.17 0)
+			(at 99.3648 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
